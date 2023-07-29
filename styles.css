@@ -2,3 +2,12 @@ h1 {
   font-family: Arial, Helvetica, sans-serif;
   color: red;
 }
+
+li{
+  border-width: 8px;
+  border-style: solid;
+  border-color: blueviolet;
+  background-color: blueviolet;
+  color:white;
+
+}
